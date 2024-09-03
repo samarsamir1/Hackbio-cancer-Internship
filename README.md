@@ -1,7 +1,6 @@
 # Hackbio-cancer-Internship
 ## Drug Solubility
-# Author (@Slack):
-Samar Samir
+### Author (@Slack):Samar Samir
 ### Introduction
 
 Drug solubility is a crucial factor in the design and development of pharmaceutical formulations. The solubility of a drug in a given solvent influences its bioavailability, efficacy, and therapeutic outcomes. Poorly soluble drugs often present challenges in achieving optimal drug absorption, leading to reduced effectiveness and potential failure in clinical applications. This essay explores the importance of drug solubility, the methods used to enhance it, and the implications for drug formulation and therapeutic performance.
