@@ -21,7 +21,7 @@ The choice of solubility enhancement technique depends on various factors, inclu
 
 In conclusion, drug solubility is a critical determinant of a drug's bioavailability and therapeutic efficacy. Addressing solubility challenges through various physical and chemical modifications can significantly improve drug performance, leading to better clinical outcomes. As the pharmaceutical industry continues to develop new drugs, the importance of solubility enhancement cannot be overstated. Future research should focus on developing novel solubility enhancement techniques and optimizing existing ones to ensure that drugs are both effective and safe for patients.
 
-## Resources
+## References
 
 1\. Savjani, K. T., Gajjar, A. K., & Savjani, J. K. (2012). Drug Solubility: Importance and Enhancement Techniques. ISRN Pharmaceutics, 2012, 1-10.  
 2\. Dahan, A., Miller, J. M., & Amidon, G. L. (2009). Prediction of solubility and permeability in drug discovery and development. Journal of Pharmaceutical Sciences, 98(12), 4117-4139.  
